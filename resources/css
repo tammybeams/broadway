@@ -7,4 +7,43 @@ body{
   color: white;
   background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
   background-position: center;
+  background-repeat: no-repeat;
+
+}
+
+.page-heading{
+  font-weight:bold;
+  font-size: 70px;
+}
+
+.designed-ny{
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.top-nav{
+  font-size: 18px;
+  font-weight:bold;
+}
+
+.process{
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.secondary-headings{
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.phrases{
+  font-size: 14px;
+}
+
+#bottom{
+  background-color: dimgray;
+  color: white;
+  text-align: left;
+  font-size: 11px;
+  font-weight: bold;
 }
